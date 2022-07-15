@@ -14,4 +14,4 @@ Opa, tudo bem?<br>Me chamo Lucas e sou um desenvolvedor com foco no back-end<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasbDev&icon=9&color=12)](https://visitcount.itsvg.in)
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lucasbDev/lucasbDev/blob/output/github-contribution-grid-snake.svg)
