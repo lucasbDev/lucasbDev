@@ -1,5 +1,9 @@
 # 💫 About Me:
-Opa, tudo bem?<br>Me chamo Lucas e sou um desenvolvedor com foco no back-end<br> 
+Opa, tudo bem?<br>
+
+Sou graduando em Sistemas para Internet (UNICAP) & Gestão da informação(UFPE) Desenvolvo aplicações na área do Back-end desde 2021 com foco na liguaguem de JavaScript & seus Frameworks, álem de outras linguagens com foco no Back-End  
+
+Atualmente trabalho como Analista de suporte na Universidade Católica de Pernambuco, realizando o monitoramento dos ambientes computacionais & Configuração de ativos de rede e segurança da informação.<br> 
 
 
 ## 🌐 Socials:
