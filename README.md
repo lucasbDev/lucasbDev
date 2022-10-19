@@ -3,7 +3,7 @@ Opa, tudo bem?<br>
 
 Sou graduando em Sistemas para Internet (UNICAP) & Gestão da informação(UFPE) Desenvolvo aplicações na área do Back-end desde 2021 com foco na linguaguem de JavaScript & seus Frameworks, entre outras stacks
 
-Atualmente trabalho como Analista de suporte na Universidade Católica de Pernambuco, realizando o monitoramento dos ambientes computacionais & Configuração de ativos de rede e segurança da informação.<br> 
+Atualmente trabalho como Analista de suporte na Universidade Católica de Pernambuco, realizando o monitoramento dos ambientes computacionais & Configuração de ativos de rede.<br> 
 
 
 ## 🌐 Socials:
