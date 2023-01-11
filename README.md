@@ -1,9 +1,8 @@
 # 💫 About Me:
-Opa, tudo bem?<br>
+<br>
+Hi there, I'm a Software Engineer with an emphasis on the back-end and fullstack projects enthusiast. I have solid knowledge in Javascript, nodeJS, in addition building a strong experience in Java and Python languages, together with the frameworks: ReactJS | NestJs | Spring Boot
 
-Sou graduando em Sistemas para Internet (UNICAP) & Gestão da informação(UFPE) Desenvolvo aplicações na área do Back-end com foco na linguaguem de JavaScript  entre outras stacks
-
-Atualmente trabalho como Analista de suporte na Universidade Católica de Pernambuco, realizando o monitoramento dos ambientes computacionais & Configuração de ativos de rede.<br> 
+check it out my projects on Github: https://github.com/lucasbDev<br> 
 
 
 ## 🌐 Socials:
