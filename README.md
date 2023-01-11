@@ -1,8 +1,8 @@
 # 💫 About Me:
 <br>
-Hi there, I'm a Software developer with an emphasis on the back-end and a fullstack projects enthusiast. I have solid knowledge in Javascript, nodeJS, in addition building a strong experience in Java and Python languages, together with the frameworks: ReactJS | NestJs | Spring Boot
+Olá, sou desenvolvedor de software com ênfase em back-end e entusiasta de projetos fullstack. Possuo sólidos conhecimentos em Javascript e nodeJS, além de construir uma forte experiência nas linguagens Java e Python, juntamente com os frameworks: ReactJS | NestJs | Spring Boot
 
-Check it out my projects on Github: https://github.com/lucasbDev<br> 
+Confira meus projetos no Github: https://github.com/lucasbDev<br> 
 
 
 ## 🌐 Socials:
