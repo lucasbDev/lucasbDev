@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>
-Olá, sou desenvolvedor de software com ênfase em back-end e entusiasta de projetos fullstack. Possuo sólidos conhecimentos em Javascript e nodeJS, além de construir uma forte experiência nas linguagens Java e Python, juntamente com os frameworks: ReactJS | NestJs | Spring Boot
+Sou formado em Sistemas para Internet e graduando em Gestão da informação. Conto com uma bagagem de +5 anos de experiência na área de TI, tenho conhecimento em Redes, Docker, Cloud, Banco de dados (Infraestrutura em Geral) e desenvolvimento web.
 
 Confira meus projetos no Github: https://github.com/lucasbDev<br> 
 
