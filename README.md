@@ -1,7 +1,14 @@
 # 💫 About Me:
 <br>
-Sou formado em Sistemas para Internet e graduando em Gestão da informação. Conto com uma bagagem de +5 anos de experiência na área de TI, tenho conhecimento em Redes, Docker, Cloud, Banco de dados (Infraestrutura em Geral) e desenvolvimento web.
+Graduado em Sistemas para Internet e cursando Gestão da Informação , possuo ampla experiência na área de TI, com foco em infraestrutura tecnológica. Meu perfil é marcado por uma sólida bagagem técnica e um compromisso constante com a entrega de resultados eficientes e inovadores.
 
+Minha atuação abrange diversas áreas do ecossistema tecnológico, incluindo:
+
+Infraestrutura de TI : Configuração e gerenciamento de redes, servidores e ambientes cloud.
+Virtualização e Containers : Experiência prática com Docker e implementação de ambientes escaláveis.
+Cloud Computing : Planejamento, implantação e otimização de serviços em nuvem.
+Bancos de Dados : Modelagem, administração e performance.
+Desenvolvimento Web : Criação e manutenção de aplicações web modernas e funcionais.
 Confira meus projetos no Github: https://github.com/lucasbDev<br> 
 
 
